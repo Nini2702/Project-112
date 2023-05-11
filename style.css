@@ -1,0 +1,49 @@
+body
+{
+  color: white;
+  background-image: url(purple.jpg);
+  background-size: cover;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dotted black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading {
+  font-size: 30px;
+  letter-spacing: 20px;
+  font-variant: small-caps;
+  box-shadow: 5px 5px 10px black;
+  border-radius: 10px;
+  font-family: 'Monoton', cursive;
+  color: palegreen;
+}
+label {
+  font-size: 18px;
+  letter-spacing: 3px;
+  font-family: 'Comfortaa', cursive;
+  background-color: darkorchid;
+  padding: 6px;
+  border-radius: 10px;
+}
+#note{
+   font-size: 20px; 
+   color: chartreuse; font-family: 'Graduate', cursive;
+}
